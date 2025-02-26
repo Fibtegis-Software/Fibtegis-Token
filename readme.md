@@ -70,6 +70,7 @@ FBTGS Token eliminates **manual data entry** by utilizing **AI to scan and inter
 
 ## 👥 Team
 - **Founder**: `İsmail KÖSE`
+- **Will Be Updated**
 
 ---
 
