@@ -1,4 +1,4 @@
-# FBTGS Token Whitepaper
+# FBTGS Token Whitepaper (v0.0.1)
 
 ---
 
