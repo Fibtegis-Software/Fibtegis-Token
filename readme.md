@@ -54,7 +54,7 @@ FBTGS Token eliminates **manual data entry** by utilizing **AI to scan and inter
 
 ## 📅 Roadmap
 ### 📍 **Current Stage:**
-- 🤖 **AI training phase** (Expected completion: **End of Summer 2024**)
+- 🤖 **AI training phase** (Expected completion: **End of Summer 2025**)
 
 ### 📍 **Next Steps:**
 - 📱 **iOS & Android application launch**.
