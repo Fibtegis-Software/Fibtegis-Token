@@ -31,7 +31,8 @@ FBTGS Token eliminates **manual data entry** by utilizing **AI to scan and inter
 
 ## 📊 Tokenomics
 ### 🔢 **Total Supply**: `1,000,000,000` FBTGS
-### 🔥 **Post-Burn Supply**: `999,990,819.50` FBTGS
+### 🔥 **Post-Burn Supply**: `994,222,205.18` FBTGS
+### 🔥 **Manual Burn Supply**: `15.000.000` FBTGS
 
 ### 📌 **Allocation Breakdown:**
 | Category             | Amount (FBTGS)  | Address |
