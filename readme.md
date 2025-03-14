@@ -39,8 +39,8 @@ FBTGS Token eliminates **manual data entry** by utilizing **AI to scan and inter
 | **FBTGS Treasury**  | `50,000,000` - `15.000.000(Burn)` = `35.000.000 Left`    | `Ae1Gywo76PNsJutESbZNkhfCBtUMKwUP51hZf7hFWxkb` |
 | **Rewards Account**  | `40,000,000`    | `BhZLy1ehEKdHn45FVFNsTKcFcY4bNCoUcAo21w7xniUd` |
 | **Swap 1**          | `21,000,000` - `21.000.000`(Airdrop for users)  = `0 Left`  | `GfiWfFf8DdaRqvJqLMZzew167sEXBSnrTTvDyhiqAbSU` |
-| **Swap 2**          | `20,000,000`    | `6RyzNv9Eawv8jTWR3hx2VXvwXFyzXG43RPKCcErc8Uts` |
-| **Developer Fund**  | `3,500,000`     | `GoWhxA8LhQfpUadCaKhrtWaZJokkCCFBshscYsHmpMKp` |
+| **Swap 2**          | `20,000,000` - `20.000.000`(Airdrop for users)  = `0 Left`   | `6RyzNv9Eawv8jTWR3hx2VXvwXFyzXG43RPKCcErc8Uts` |
+| **Developer Fund**  | `3,500,000`  + 4.4M    | `GoWhxA8LhQfpUadCaKhrtWaZJokkCCFBshscYsHmpMKp` |
 
 ---
 
