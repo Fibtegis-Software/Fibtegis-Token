@@ -37,13 +37,13 @@ FBTGS Token eliminates **manual data entry** by utilizing **AI to scan and inter
 ### 📌 **Allocation Breakdown:**
 | Category             | Amount (FBTGS)  | Address |
 |----------------------|----------------|----------------------------------------|
-| **FBTGS Treasury**  | `50,000,000` - `15.000.000(Burn)` = `35.000.000 Left`    | `Ae1Gywo76PNsJutESbZNkhfCBtUMKwUP51hZf7hFWxkb` |
-| **Rewards Account**  | `40,000,000`    | `BhZLy1ehEKdHn45FVFNsTKcFcY4bNCoUcAo21w7xniUd` |
+| **FBTGS Treasury**  | `20.000.000`     | `Ae1Gywo76PNsJutESbZNkhfCBtUMKwUP51hZf7hFWxkb` |
+| **Rewards Account**  | `20,000,000`    | `BhZLy1ehEKdHn45FVFNsTKcFcY4bNCoUcAo21w7xniUd` |
 | **Swap 1**          | `21,000,000` - `21.000.000`(Airdrop for users)  = `0 Left`  | `GfiWfFf8DdaRqvJqLMZzew167sEXBSnrTTvDyhiqAbSU` |
 | **Swap 2**          | `20,000,000` - `20.000.000`(Airdrop for users)  = `0 Left`   | `6RyzNv9Eawv8jTWR3hx2VXvwXFyzXG43RPKCcErc8Uts` |
 | **Developer Fund**  | `3,500,000`  + 4.4M    | `GoWhxA8LhQfpUadCaKhrtWaZJokkCCFBshscYsHmpMKp` |
-AkLPx4mbx3rECPN1fdfqoYPLMvwgFVgDW7NTG6Ab8C2y
-CpLTgFT6ARwEx4pD3GtBmJygmn1GMe2enVYQNFbKkhs2
+| **Developer Fund**  | `15,000,000`    | `AkLPx4mbx3rECPN1fdfqoYPLMvwgFVgDW7NTG6Ab8C2y` |
+| **Developer Fund**  | `20,000,000`   | `CpLTgFT6ARwEx4pD3GtBmJygmn1GMe2enVYQNFbKkhs2` |
 ---
 
 ## 🛠️ Token Utility
